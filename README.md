@@ -122,6 +122,4 @@ nothing to commit, working directory clean
 
 If you've followed these instructions, your `next-big-thing` directory is now a Git repository. You can retain the directory as a sandbox for Git experimentation, or simply delete or ignore it.
 
-<p data-visibility='hidden'>View <a href='https://learn.co/lessons/git-basics-readme' title='Git Repository Basics'>Git Repository Basics</a> on Learn.co and start learning to code for free.</p>
-
-<p class='util--hide'>View <a href='https://learn.co/lessons/git-basics-readme'>Git Repository Basics</a> on Learn.co and start learning to code for free.</p>
+<p data-visibility='hidden'>PHRG Git Repository Basics</p>
